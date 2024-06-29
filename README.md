@@ -12,7 +12,7 @@ LogicWorks 5
 
 در پیوست لینک برنامه LogicWorks 5 موجود است.
 
-لینک ویدوهای توضیحی:
+لینک ویدئوهای توضیحی:
 
 
 https://drive.google.com/drive/folders/1epBnMcB8szi_wMwazIrLPCENlS4W1U68?usp=sharing
