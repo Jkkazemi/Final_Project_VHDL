@@ -7,5 +7,8 @@
 برنامه های لازم برای این پروژه :
 
 Aldec Active-HDL 13 64-bit
+
 LogicWorks 5
+
 در پیوست لینک برنامه LogicWorks 5 موجود است.
+
